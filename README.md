@@ -1,7 +1,3 @@
-Here is the revised readme file content with the LaTeX equations uncompiled, keeping the $...$ and $$...$$ format as requested:
-
----
-
 # High-fidelity-DV-entanglement-generation
 These two codes are designed for heralded entangled spin generation, based on the Barret-Kok scheme and Humphrey scheme.
 
